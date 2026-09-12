@@ -1,5 +1,5 @@
 # Tenant-scoped CD — applies to THIS repository only.
-# tenant.id: project
+# tenant.id: agentsmith-scratch-python
 # Do not reference org-level shared secrets beyond this tenant's GitHub Environment.
 
 name: "CD: Production Deploy"
